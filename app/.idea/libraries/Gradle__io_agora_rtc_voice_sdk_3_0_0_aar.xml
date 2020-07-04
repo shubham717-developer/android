@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.agora.rtc:voice-sdk:3.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/voice-sdk-3.0.0.aar/b4be0a35ca66d501f4d2153bab915c30/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/voice-sdk-3.0.0.aar/b4be0a35ca66d501f4d2153bab915c30/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/voice-sdk-3.0.0.aar/b4be0a35ca66d501f4d2153bab915c30/jars/libs/agora-rtc-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.agora.rtc/voice-sdk/3.0.0/e7bfc1aad2b3c7a271a3d02b7480a5f39b613dc9/voice-sdk-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.agora.rtc/voice-sdk/3.0.0/e7bfc1aad2b3c7a271a3d02b7480a5f39b613dc9/voice-sdk-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
